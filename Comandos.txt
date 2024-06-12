@@ -1,0 +1,5 @@
+*COMANDOS PARA GITHUB*
+
+- Atualizar Github
+git add . ; git commit -m “Escreva aqui o que alterou” ; git push
+
