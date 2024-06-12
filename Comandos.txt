@@ -3,3 +3,14 @@
 - Atualizar Github
 git add . ; git commit -m “Escreva aqui o que alterou” ; git push
 
+- Criar pasta
+touch nome_da_pasta/README.md
+
+- Adicionar arquivo
+echo "" > nome_da_pasta/README.md
+
+- Excluir um arquivo
+rm nome_da_pasta/arquivo.txt
+
+
+
