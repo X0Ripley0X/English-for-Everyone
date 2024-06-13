@@ -1,5 +1,4 @@
 *COMANDOS PARA GITHUB*
-#6FC9F9 azul
 
 - Atualizar Github
 git add . ; git commit -m “Escreva aqui o que alterou” ; git push
@@ -13,5 +12,5 @@ echo "" > nome_da_pasta/README.md
 - Excluir um arquivo
 rm nome_da_pasta/arquivo.txt
 
-
-
+- Renomear arquivo
+mv caminho/antigo/nome_antigo.txt caminho/antigo/nome_novo.txt
